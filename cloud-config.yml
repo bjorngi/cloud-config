@@ -1,0 +1,3 @@
+#cloud-config
+ssh_authorized_keys:
+  - ssh-ed25519 AAAAC3NzaC1lZDI1NTE5AAAAIMNCZT03fA6VjnE1ctZSH8hbadHev3J7zlEo8noUhlfp bgi@aztek.no
